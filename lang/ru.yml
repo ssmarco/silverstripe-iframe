@@ -6,6 +6,6 @@ ru:
     VALIDATION_BANNEDURLSCHEME: 'Данный тип ссылки запрещён.'
     ExternalNote: 'Примечание: содержимое в разделе ниже может быть получено из внешнего источника (HTML-элемент IFRAME) и может воспроизводиться программами для чтения экрана некорректно.'
     Loading: 'Идет загрузка...'
-  SiteTree:
+  SilverStripe\CMS\Model\SiteTree:
     PLURALNAME: Страницы
     SINGULARNAME: Страница

@@ -5,6 +5,6 @@ ar:
     SINGULARNAME: 'صفحة الإطار'
     ExternalNote: 'من فضلك لاحظ قطاع المحتوى القادم و الذى من المحتمل أن يكون مستلم من مصدر خارجى (آى فريم فى صيغة اتش تى إم إل), و يمكن أن يقوم بتصرفات غير معتادة لقراء الشاشة.'
     Loading: 'تحميل المحتوى'
-  SiteTree:
+  SilverStripe\CMS\Model\SiteTree:
     PLURALNAME: صفحات
     SINGULARNAME: صفحة

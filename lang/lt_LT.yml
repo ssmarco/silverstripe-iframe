@@ -6,6 +6,6 @@ lt_LT:
     VALIDATION_BANNEDURLSCHEME: 'Tokia URL schema neleidžiama'
     ExternalNote: 'Prašome atkreipti dėmesį, jog šis turinys galimai yra iš išorinių šaltinių (IFRAME žyma HTML dokumente), tad jis gali sukeiti nepatogumų vartotojams su ekrano skaitytuvais.'
     Loading: 'Turinys siunčiamas...'
-  SiteTree:
+  SilverStripe\CMS\Model\SiteTree:
     PLURALNAME: Puslapiai
     SINGULARNAME: Puslapis

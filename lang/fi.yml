@@ -5,6 +5,6 @@ fi:
     SINGULARNAME: 'I Frame sivu'
     ExternalNote: 'Huomioithan, että seuraava sisältöosio on upotettu ulkopuolisesta lähteestä (HTML-kielen IFRAME-käskyllä) ja saattaa aiheuttaa odottamattoman käyttökokemuksen selaimessa.'
     Loading: 'Ladataan sisältöä...'
-  SiteTree:
+  SilverStripe\CMS\Model\SiteTree:
     PLURALNAME: Sivut
     SINGULARNAME: Sivu

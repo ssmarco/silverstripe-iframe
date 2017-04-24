@@ -1,4 +1,4 @@
 it:
-  SiteTree:
+  SilverStripe\CMS\Model\SiteTree:
     PLURALNAME: Pagine
     SINGULARNAME: Pagina
