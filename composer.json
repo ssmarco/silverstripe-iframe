@@ -14,9 +14,14 @@
 		"silverstripe/framework": "^4@dev",
 		"silverstripe/cms": "^4@dev"
 	},
+	"require-dev": {
+		"phpunit/PHPUnit": "^5.7"
+	},
 	"extra": {
 		"branch-alias": {
-			"dev-master": "1.0.x-dev"
+			"dev-master": "2.0.x-dev"
 		}
-	}
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
 }
