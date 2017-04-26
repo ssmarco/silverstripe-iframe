@@ -11,8 +11,8 @@
 		}
 	],
 	"require": {
-		"silverstripe/framework": "3.*",
-		"silverstripe/cms": "3.*"
+		"silverstripe/framework": "^4@dev",
+		"silverstripe/cms": "^4@dev"
 	},
 	"extra": {
 		"branch-alias": {
